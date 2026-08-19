@@ -1,0 +1,31 @@
+feedback_id,client_name,service_type,feedback_text,rating,timestamp
+FB-001,Apex FinTech,Vulnerability Assessment,"The VAPT team delivered an exceptional penetration testing report. Critical flaws were identified before our production launch.",5,2026-08-01
+FB-002,HealthGuard Systems,Cloud Security Audit,"SafeX cloud architects secured our AWS infrastructure with outstanding professionalism and deep compliance knowledge.",5,2026-08-01
+FB-003,Nova Retail Corp,Web Application Security,"The assessment was standard. The findings were adequate, but the final executive summary lacked detailed remediation guidance.",3,2026-08-02
+FB-004,Urban Bank,SOC & SIEM Monitoring,"Disastrous experience. The automated rules failed to catch simulated brute-force attacks and communication was completely unresponsive.",1,2026-08-02
+FB-005,Horizon Logistics,Network Penetration Testing,"Superb engagement! The team demonstrated real-world lateral movement and provided practical mitigations for our domain controllers.",5,2026-08-03
+FB-006,EduLearn Global,API Security Assessment,"The API test was completed on schedule. No major critical issues were found, but delivery met the baseline SLA terms.",3,2026-08-03
+FB-007,Prime Health Tech,Source Code Review,"Unacceptable quality. The static analysis report was full of false positives and the analyst showed lack of understanding in modern framework security.",1,2026-08-04
+FB-008,Skyline Media,Red Team Assessment,"Impressive social engineering simulation. Our security team learned valuable operational insights from the exercise.",5,2026-08-04
+FB-009,SwiftPay Solutions,Compliance & ISO 27001,"Consulting met expectations. Standard templates were provided as agreed upon in the statement of work.",3,2026-08-05
+FB-010,Vortex Defense,Incident Response,"Extremely disappointed. Incident response team arrived late during a mock breach exercise and lost critical forensic logs.",1,2026-08-05
+FB-011,Crestline Analytics,Web Application Security,"Solid work on our web portal. Identified a severe IDOR flaw that could have led to severe data leakage.",4,2026-08-06
+FB-012,NextGen Telecom,Threat Modeling,"The threat modeling workshop was informative and gave our software engineers clear guidelines for secure coding.",4,2026-08-06
+FB-013,AeroDynamics Ltd,IoT Security Testing,"Hardware firmware testing went as expected. Delivered report according to standard protocols without any surprises.",3,2026-08-07
+FB-014,Beacon Capital,Mobile App Security,"Outstanding assessment of our iOS and Android banking applications. High-level technical expertise was on full display.",5,2026-08-07
+FB-015,Alpha E-Commerce,Vulnerability Assessment,"Very poor customer service. Delayed the final re-test verification report by over two weeks with zero proactive updates.",2,2026-08-08
+FB-016,TrueNorth Legal,Email Security & Anti-Phishing,"The phishing simulation campaign provided actionable insights and significantly improved employee security awareness.",4,2026-08-08
+FB-017,Quantum AI Labs,Cloud Security Audit,"Routine assessment completed. Some findings on IAM roles were useful, but overall matched generic benchmark benchmarks.",3,2026-08-09
+FB-018,Starlight Hospitality,Database Security Hardening,"Excellent recommendations for database encryption at rest and SQL audit logging. Very satisfied with the outcome.",5,2026-08-09
+FB-019,Metropolis Transit,ICS / SCADA Security,"Critical industrial control systems testing was carried out safely with zero downtime. Highly recommended.",5,2026-08-10
+FB-020,OmniRetailers,SOC & SIEM Monitoring,"Average response times during alert triage. Neither particularly fast nor excessively delayed.",3,2026-08-10
+FB-021,Summit Insurance,Compliance & ISO 27001,"Frustrated by the constant rescheduling of auditor review meetings. Project deadlines were completely derailed.",2,2026-08-11
+FB-022,BlueWave Digital,Web Application Security,"Identified critical SQL injection and stored XSS vulnerabilities. Clear proof-of-concept steps made developer patching seamless.",5,2026-08-11
+FB-023,Zenith Pharma,Source Code Review,"Thorough code auditing of our clinical trial portal. Great attention to cryptographic implementations.",4,2026-08-12
+FB-024,Silverline Logistics,Network Penetration Testing,"Network scan was conducted smoothly. Follow-up consultation answered our infrastructure team's questions effectively.",4,2026-08-12
+FB-025,CyberCore Inc,Red Team Assessment,"The red team exercise was average. Objective targets were partially achieved without deep persistence testing.",3,2026-08-13
+FB-026,EverGreen Energy,Incident Response,"Phenomenal crisis management support. When an active ransomware probe was detected, SafeX contained the threat rapidly.",5,2026-08-13
+FB-027,Pinnacle Real Estate,Mobile App Security,"Terrible communication. The security analyst was rude during the debrief call and refused to explain vulnerability impact.",1,2026-08-14
+FB-028,CloudBridge AI,API Security Assessment,"Fantastic test coverage across GraphQL and REST endpoints. Outstanding automated and manual testing balance.",5,2026-08-14
+FB-029,Global Logistics Corp,Threat Modeling,"Generic threat report that felt copy-pasted from internet boilerplates. Did not address our specific custom architecture.",2,2026-08-15
+FB-030,Krypton Banking,Vulnerability Assessment,"World-class service from beginning to end. Accurate triage, zero false alarms, and executive-ready reporting.",5,2026-08-15

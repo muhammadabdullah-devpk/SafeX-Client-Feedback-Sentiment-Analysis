@@ -1,0 +1,35 @@
+[
+    {
+        "rank": 1,
+        "feedback_id": "FB-027",
+        "client_name": "Pinnacle Real Estate",
+        "service_type": "Mobile App Security",
+        "rating": 1,
+        "compound_score": -0.727,
+        "feedback_text": "Terrible communication. The security analyst was rude during the debrief call and refused to explain vulnerability impact.",
+        "severity": "CRITICAL",
+        "recommended_action": "Escalate to Client Relationship Lead for immediate apology and direct manager follow-up."
+    },
+    {
+        "rank": 2,
+        "feedback_id": "FB-004",
+        "client_name": "Urban Bank",
+        "service_type": "SOC & SIEM Monitoring",
+        "rating": 1,
+        "compound_score": -0.6734,
+        "feedback_text": "Disastrous experience. The automated rules failed to catch simulated brute-force attacks and communication was completely unresponsive.",
+        "severity": "CRITICAL",
+        "recommended_action": "Escalate to Client Relationship Lead for immediate apology and direct manager follow-up."
+    },
+    {
+        "rank": 3,
+        "feedback_id": "FB-010",
+        "client_name": "Vortex Defense",
+        "service_type": "Incident Response",
+        "rating": 1,
+        "compound_score": -0.6612,
+        "feedback_text": "Extremely disappointed. Incident response team arrived late during a mock breach exercise and lost critical forensic logs.",
+        "severity": "HIGH",
+        "recommended_action": "Conduct internal post-mortem on SLA delivery and issue expedited resolution report."
+    }
+]
